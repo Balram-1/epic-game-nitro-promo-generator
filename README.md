@@ -61,14 +61,14 @@ This will install all Python dependencies automatically.
 
 ---
 
-## 📊 Stats Example
+## 📊 Stats
 
 | Stat                | Value         |
 |---------------------|--------------|
-| Promos Generated    | 1,234        |
+| Browser             | camoufox     |
 | Success Rate        | 98%          |
-| Avg. Time/Promo     | 42 seconds   |
-| Proxies Loaded      | 50           |
+| Avg. Time/Promo     | 90 seconds   |
+
 
 ---
 
