@@ -2,7 +2,7 @@
 
 
 Generate Discord Nitro promo links automatically using stealth browser automation, TempMail.lol API, and custom domains.  
-Features fast operation, camoufox-based stealth, auto OTP and promo fetch, and robust tempmail support
+Features fast operation, camoufox-based stealth, auto OTP and promo fetch, and robust tempmail support.
 
 ---
 
